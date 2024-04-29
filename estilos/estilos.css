@@ -115,8 +115,6 @@ header .texto h3 {
 }
 
 .main .acerca-de article h3 {
-
-.main .acerca-de article h3 {
     font-size: 50px;
     font-weight: 300;
     margin-bottom: 40px;
@@ -124,7 +122,6 @@ header .texto h3 {
 
 }
 
-.main .acerca-de article p {
 
 .main .acerca-de article p {
     line-height: 28px;
@@ -138,7 +135,6 @@ header .texto h3 {
     margin-bottom: 50px;
 }
 
-.main .menu .titulo {
 
 .main .menu .titulo {
     font-size: 40px;
@@ -150,7 +146,6 @@ header .texto h3 {
 
 .main .menu .contenedor-menu,
 .main .menu .contenedor-menu2 {
-.main .menu .contenedor-menu2 {
     border: 1px solid black;
     background: transparent;
     padding: 10px;
@@ -159,7 +154,6 @@ header .texto h3 {
 
 }
 
-.main .menu article {
 
 .main .menu article {
     padding: 20px;
@@ -169,7 +163,6 @@ header .texto h3 {
     float: left;
 }
 
-.main .menu article .categoria {
 
 .main .menu article .categoria {
     text-align: center;
@@ -179,7 +172,6 @@ header .texto h3 {
     border: 1px solid rgb(0, 0, 0);
 }
 
-.main .menu .platos {
 
 .main .menu .platos {
     margin-bottom: 30px;
@@ -188,7 +180,6 @@ header .texto h3 {
     overflow: hidden;
 }
 
-.main .menu .nombre {
 
 .main .menu .nombre {
     font-size: 20px;
@@ -196,7 +187,6 @@ header .texto h3 {
     float: left;
 }
 
-.main .menu .precio {
 
 .main .menu .precio {
     font-size: 20px;
@@ -205,7 +195,6 @@ header .texto h3 {
     float: right;
 }
 
-.main .menu .descripcion {
 
 .main .menu .descripcion {
     font-size: 16px;
@@ -213,13 +202,11 @@ header .texto h3 {
     clear: both;
 }
 
-.main .galeria {
 
 .main .galeria {
     overflow: hidden;
 }
 
-.main .galeria .foto {
 
 .main .galeria .foto {
     width: 25%;
