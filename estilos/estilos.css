@@ -16,13 +16,11 @@ body {
     max-width: 1000px;
     margin: auto;
     overflow: hidden;
-    border: 3px solid rgb(0, 26, 255);
 }
 
 /*----ESTILOS HEADER-----*/
 header {
     width: 100%;
-    border: 1px solid red;
     background: url('../imagenes/bg.jpg') #281a0c;
     background-size: cover;
     background-attachment: fixed;
